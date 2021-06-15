@@ -1,4 +1,4 @@
-** Benjamin Kipkorir & Kelvin Gitahi **
+**DOG BREEDS**
 
 |Breeds             |Origin      |Weight     |Life Span      |
 |-------------------|------------|-----------|---------------|
@@ -6,3 +6,6 @@
 |Chihuahua          |Mexican     |1.5 - 3 Kg |12 - 20 Years  |
 |Siberian Husky     |Siberia     |20 - 27 Kg |12 - 15 Years  |
 |Bulldog            |England     |23 -25 Kg  |8 -10 Years    |
+
+
+***By Benjamin Kipkorir & Kelvin Gitahi***
